@@ -18,7 +18,7 @@ imutils : version - 0.5.4
 
 dlib : version - 19.22.99
 
-cv2 (opencv-python): version -  4.6.0.66
+cv2 (opencv-python) : version -  4.6.0.66
 
 ## How to configure
 Instructions for setting up project
