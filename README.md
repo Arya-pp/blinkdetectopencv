@@ -14,9 +14,11 @@ small description
 2. Embed video of project demo
 ## Libraries used
 
-imutils library : FileVideoStream, VideoStream
-dlib : Contains an implementation of facial landmark detection
-cv2 : OpenCV library
+imutils : version - 0.5.4
+
+dlib : version - 19.22.99
+
+cv2 (opencv-python): version -  4.6.0.66
 
 ## How to configure
 Instructions for setting up project
