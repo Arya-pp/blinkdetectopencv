@@ -13,7 +13,11 @@ small description
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+
+imutils library : FileVideoStream, VideoStream
+dlib : Contains an implementation of facial landmark detection
+cv2 : OpenCV library
+
 ## How to configure
 Instructions for setting up project
 ## How to Run
