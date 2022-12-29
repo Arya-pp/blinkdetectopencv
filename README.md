@@ -14,13 +14,21 @@ small description
 2. Embed video of project demo
 ## Libraries used
 
-imutils : version - 0.5.4
+imutils : 0.5.4
 
-dlib : version - 19.22.99
+dlib : 19.22.99
 
-cv2 (opencv-python) : version -  4.6.0.66
+cv2 (opencv-python) : 4.6.0.66
 
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+Install all the required apps and libraries
+For the blink rate of an input video , give this  command in the terminal :
+python blinkeye.py --shape-predictor shape_predictor_68_face_landmarks.dat --video "link"
+the video should be within the same folder where all the codes lie and the link of the same should replace the “link” in the above command 
+For the blink rate of live video from the webcam , uncomment the  commented lines 51 and 52
+# vs = VideoStream(src=0).start()
+# fileStream = False
+Give this  command in the terminal :
+python blinkeye.py --shape-predictor shape_predictor_68_face_landmarks.dat
