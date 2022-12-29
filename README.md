@@ -1,10 +1,10 @@
 # blinkdetectopencv
 small description
 ## Team members
-1. Name1 [Embed personal github URL]
-2. Name2 [Embed perosnal github URL]
-3. Name3 [Embed perosnal github URL]
-4. Name4 [Embed perosnal github URL]
+1. CLERINE MARIA IGNATIOUS [https://github.com/CLERINE-MARIA-IGNATIOUS]
+2. ARYA PP [https://github.com/Arya-pp]
+3. SHIFA BHASHEER
+4. DRISHYAMOL M
 ## Team Number
 12
 ## Link to product walkthrough
